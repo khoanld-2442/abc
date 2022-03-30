@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T01:04:35.168Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="8K03SxSEE1A3mWPJe40B" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T03:47:23.917Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="imq6Vgacq-y7P2le4B24" version="17.2.4" type="github">
   <diagram id="MsdERdWF8fqu_pF5vMwh" name="Page-1">
-    <mxGraphModel dx="2207" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3112" dy="2435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="JQXj3KJYAm5jc1gMzuqt-56" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;dashed=0;sketch=0;fontFamily=Helvetica;fontSize=10;fontColor=default;strokeColor=#008cff;strokeWidth=2;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="620" y="-540" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JQXj3KJYAm5jc1gMzuqt-57" value="&lt;font style=&quot;font-size: 12px&quot;&gt;View Repository&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=0;sketch=0;fontFamily=Helvetica;fontSize=10;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="JQXj3KJYAm5jc1gMzuqt-57" value="&lt;font style=&quot;font-size: 12px&quot;&gt;View Repository&lt;/font&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=0;sketch=0;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="620" y="-540" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JQXj3KJYAm5jc1gMzuqt-60" value="&lt;span style=&quot;color: rgb(36 , 41 , 47) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;recruit&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=0;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
@@ -115,7 +115,7 @@
         <mxCell id="JQXj3KJYAm5jc1gMzuqt-182" value="&lt;b&gt;Statistics&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-115" y="-360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KC8bK6XBZzEEy5BXrPJG-1" value="Filter by usage trends" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="KC8bK6XBZzEEy5BXrPJG-1" value="Filter by usage trends" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="150" y="80" width="255" height="40" as="geometry" />
         </mxCell>
       </root>
